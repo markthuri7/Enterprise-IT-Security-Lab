@@ -43,6 +43,10 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ### Network Test
 ![Ping Test](screenshots/ping-test.png)
 
+### Group Policy – Screen Lock Enforcement
+![GPO Settings](screenshots/gpo-screenlock-settings.png)
+![Locked Screen](screenshots/pc01-screen-locked.png)
+
 ## Future Enhancements
 - SIEM integration
 - Ticketing system
