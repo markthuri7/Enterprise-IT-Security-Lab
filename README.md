@@ -23,6 +23,8 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Joined Windows clients to domain
 - Configured DNS and static IPs
 - Troubleshot connectivity and authentication issues
+- Implemented Group Policy to enforce automatic screen lock and password protection
+- Verified policy deployment using gpresult and gpupdate
 
 ## Screenshots
 
@@ -42,7 +44,6 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ![Ping Test](screenshots/ping-test.png)
 
 ## Future Enhancements
-- Group Policy management
 - SIEM integration
 - Ticketing system
 - Endpoint protection
