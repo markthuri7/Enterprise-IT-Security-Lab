@@ -27,6 +27,8 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Verified policy deployment using gpresult and gpupdate
 - Created file shares and implemented NTFS and share permissions
 - Deployed Group Policy drive mapping based on security groups
+ Configured domain password and account lockout policies
+- Performed account unlocks and password resets using GUI and CLI
 
 ## Screenshots
 
@@ -53,6 +55,12 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ![Drive Mapping GPO](screenshots/gpo-drive-mapping.png)
 ![Shares](screenshots/company-shares-structure.png)
 ![Mapped Drive](screenshots/mapped-drive-it.png)
+
+### Password Policy and Account Management
+![Password Policy](screenshots/password-policy.png)
+![Lockout Policy](screenshots/lockout-policy.png)
+![Locked Account](screenshots/account-locked.png)
+![Password Reset](screenshots/password-reset.png)
 
 ## Future Enhancements
 - SIEM integration
