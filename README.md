@@ -25,6 +25,8 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Troubleshot connectivity and authentication issues
 - Implemented Group Policy to enforce automatic screen lock and password protection
 - Verified policy deployment using gpresult and gpupdate
+- Created file shares and implemented NTFS and share permissions
+- Deployed Group Policy drive mapping based on security groups
 
 ## Screenshots
 
@@ -46,6 +48,11 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ### Group Policy – Screen Lock Enforcement
 ![GPO Settings](screenshots/gpo-screenlock-settings.png)
 ![Locked Screen](screenshots/pc01-screen-locked.png)
+
+### File Server and Drive Mapping
+![Drive Mapping GPO](screenshots/gpo-drive-mapping.png)
+![Shares](screenshots/company-shares-structure.png)
+![Mapped Drive](screenshots/mapped-drive-it.png)
 
 ## Future Enhancements
 - SIEM integration
