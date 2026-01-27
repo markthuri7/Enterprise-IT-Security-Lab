@@ -27,8 +27,12 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Verified policy deployment using gpresult and gpupdate
 - Created file shares and implemented NTFS and share permissions
 - Deployed Group Policy drive mapping based on security groups
- Configured domain password and account lockout policies
+- Configured domain password and account lockout policies
 - Performed account unlocks and password resets using GUI and CLI
+- Installed and secured osTicket on Windows using XAMPP
+- Created agent and user roles
+- Managed ticket lifecycle from submission to resolution
+- Documented incident response workflows
 
 ## Screenshots
 
@@ -61,6 +65,11 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ![Lockout Policy](screenshots/lockout-policy.png)
 ![Locked Account](screenshots/account-locked.png)
 ![Password Reset](screenshots/password-reset.png)
+
+### Helpdesk Ticketing System (osTicket)
+![Admin Dashboard](screenshots/ticket-admin-dashboard.png)
+![Open Ticket](screenshots/ticket-open-admin.png)
+![Resolved Ticket](screenshots/ticket-resolved-user.png)
 
 ## Future Enhancements
 - SIEM integration
