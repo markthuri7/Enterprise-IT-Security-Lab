@@ -10,11 +10,12 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Active Directory & DNS
 - Windows 11 Pro Client
 - VirtualBox
+- Ubuntu Server - Wazuh SIEM
 - Internal Network (LabNet)
 
 ## Lab Architecture
-- DC01 (192.168.100.10) – Domain Controller, DNS
-- PC01 (192.168.100.20) – Domain Client
+- DC01 – Domain Controller, DNS
+- PC01 – Domain Client
 - Domain: lab.local
 
 ## Key Skills Demonstrated
@@ -33,6 +34,7 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Created agent and user roles
 - Managed ticket lifecycle from submission to resolution
 - Documented incident response workflows
+- Using Wazuh I detected and investigated failed logins (Event ID 4625), account lockouts (Event ID 4740) and privilege escalation (Event ID 4732)
 
 ## Screenshots
 
