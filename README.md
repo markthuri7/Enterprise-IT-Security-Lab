@@ -71,8 +71,20 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ![Open Ticket](screenshots/ticket-open-admin.png)
 ![Resolved Ticket](screenshots/ticket-resolved-user.png)
 
-## Future Enhancements
-- SIEM integration
-- Ticketing system
-- Endpoint protection
-- Cloud integration
+## Screenshots
+![Wazuh Failed Login](screenshots/wazuh-failed-login-4625.png)
+![Account Lockout](screenshots/wazuh-account-lockout-4740.png)
+![Privilege Escalation](screenshots/wazuh-privilege-escalation-4732.png)
+
+## Lessons Learned
+- Importance of time synchronization for log analysis
+- Troubleshooting DNS and network connectivity issues
+- Managing endpoint security agents
+- Following least privilege principles
+- Documenting incidents and resolutions
+
+## Future Improvements
+- Integrate vulnerability scanning
+- Build custom Wazuh dashboards
+- Add cloud-based monitoring
+- Automate deployment with scripts
