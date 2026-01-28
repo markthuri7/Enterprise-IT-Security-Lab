@@ -71,7 +71,7 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 ![Open Ticket](screenshots/ticket-open-admin.png)
 ![Resolved Ticket](screenshots/ticket-resolved-user.png)
 
-## Screenshots
+## Security Monitoring SIEM (Wazuh)
 ![Wazuh Failed Login](screenshots/wazuh-failed-login-4625.png)
 ![Account Lockout](screenshots/wazuh-account-lockout-4740.png)
 ![Privilege Escalation](screenshots/wazuh-privilege-escalation-4732.png)
