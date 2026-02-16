@@ -84,9 +84,3 @@ The lab simulates a corporate network with centralized authentication, endpoint 
 - Managing endpoint security agents
 - Following least privilege principles
 - Documenting incidents and resolutions
-
-## Future Improvements
-- Integrate vulnerability scanning
-- Build custom Wazuh dashboards
-- Add cloud-based monitoring
-- Automate deployment with scripts
